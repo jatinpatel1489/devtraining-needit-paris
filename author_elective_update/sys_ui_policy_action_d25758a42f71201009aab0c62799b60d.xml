@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>state</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 18:09:57</sys_created_on>
+        <sys_id>d25758a42f71201009aab0c62799b60d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d25758a42f71201009aab0c62799b60d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 18:36:03</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Testing UI Plicy">27d54ce82f31201009aab0c62799b6d0</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c8ebf662db5508142f68c59705961916</instance_id>
+        <instance_name>dev95323</instance_name>
+        <name>sys_ui_policy_action_d25758a42f71201009aab0c62799b60d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>false</disabled><field>state</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-15 18:09:57</sys_created_on><sys_id>d25758a42f71201009aab0c62799b60d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>state</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_d25758a42f71201009aab0c62799b60d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-15 18:36:03</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Testing UI Plicy">27d54ce82f31201009aab0c62799b6d0</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1743755275</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>b87b9d3b2fad201009aab0c62799b62e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 18:36:03</sys_created_on>
+        <sys_id>a56d50a82f71201009aab0c62799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17707553fb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 18:36:03</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>ed6d50a89d7120109def389dd0c3fc20</update_guid>
+        <update_guid_history>ed6d50a89d7120109def389dd0c3fc20:1743755275,713d18a86a712010eb5a7f938541b8d2:1969807984,83671ca44f712010ae4111d0288a8449:-370717520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 18:53:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>2d4fd3ac9a0345209a0a8bed9f1b89c4</sys_id>
+        <sys_metadata>d25758a42f71201009aab0c62799b60d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_d25758a42f71201009aab0c62799b60d</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_d25758a42f71201009aab0c62799b60d">a56d50a82f71201009aab0c62799b621</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 18:53:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
